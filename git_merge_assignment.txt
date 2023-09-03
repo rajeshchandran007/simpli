@@ -1,0 +1,111 @@
+ 1040  git branch
+
+ 1041  git branch branch2
+
+ 1042  git checkout branch2
+
+ 1043  git branch2
+
+ 1044  git branch
+
+ 1045  touch file2-1
+
+ 1046  git add .
+
+ 1047  git commit -m "c2-1"
+
+ 1048  git status
+
+ 1049  ls
+
+ 1050  git --oneline
+
+ 1051  git log --oneline
+
+ 1052  git branch
+
+ 1053  touch file2-2
+
+ 1054  git add .
+
+ 1055  git commit -m "c2-2"
+
+ 1056  git log --oneline
+
+ 1057  ls
+
+ 1058  git branch branch2-2
+
+ 1059  git checkout branch2-2
+
+ 1060  git branch
+
+ 1061  touch file2-2-1
+
+ 1062  git add .
+
+ 1063  git commit -m "c2-2-1"
+
+ 1064  touch file2-2-2
+
+ 1065  git add .
+
+ 1066  git commit -m "c2-2-2"
+
+ 1067  git log --oneline
+
+ 1068  git branch
+
+ 1069  ls
+
+ 1070  git checkout branch2
+
+ 1071  ls
+
+ 1072  git branch
+
+ 1073  touch file2-3
+
+ 1074  git add .
+
+ 1075  git commit -m "c2-3"
+
+ 1076  git log --oneline
+
+ 1077  ls
+
+ 1078  git merge branch2-2
+
+ 1079  git branch
+
+ 1080  git log --oneline
+
+ 1081  ls
+
+ 1082  git checkout main
+
+ 1083  ls
+
+ 1084  touch file-master
+
+ 1085  git add .
+
+ 1086  git commit -m "c1.1"
+
+ 1087  git log --oneline
+
+ 1088  ls
+
+ 1089  git branch
+
+ 1090  git merge branch2
+
+ 1091  git --oneline
+
+ 1092  git log --oneline
+
+ 1093  git log --oneline --graph
+
+ 1094  git branch
+
+
